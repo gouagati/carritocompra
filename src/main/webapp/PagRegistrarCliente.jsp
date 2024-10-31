@@ -40,7 +40,25 @@
                                     <div class="col-sm-12">
                                         <div class="mb-3">
                                             <label>Telefono: </label>
-                                            <input type="text" class="from-control" required="" name="nombres" placeholder="Ingrese su nombre" />
+                                            <input type="text" class="from-control" required="" name="telefono" placeholder="Ingrese su nombre" />
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="mb-3">
+                                            <label>: </label>Correo</label>
+                                            <input type="text" class="from-control" required="" name="correo" placeholder="Ingrese su nombre" />
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="mb-3">
+                                            <label>Password: </label>
+                                            <input type="text" class="from-control" required="" name="password" placeholder="Ingrese su nombre" />
                                         </div>
                                     </div>
                                 </div>
